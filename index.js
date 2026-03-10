@@ -1,3 +1,4 @@
+//teste integração Github jira
 const fs = require('fs')
 const YAML = require('yaml')
 const core = require('@actions/core')
